@@ -1,0 +1,37 @@
+{
+  "folders": [
+    {
+      "path": "./HelloWorld"
+    }
+  ],
+  "settings": {
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "[lua]": {
+      "editor.formatOnSave": true,
+      "editor.formatOnPaste": true
+    }
+  },
+  "launch": {
+    "configurations": [
+      {
+        "type": "lua-local",
+        "request": "launch",
+        "name": "Debug LOVE2D",
+        "program": {
+          "command": "love"
+        },
+        "args": [
+          "${workspaceFolder}",
+          "vsc_debug"
+        ]
+      }
+    ],
+    "compounds": []
+  },
+  "extensions": {
+    "recommendations": [
+      "tomblind.local-lua-debugger-vscode"
+    ]
+  },
+}
