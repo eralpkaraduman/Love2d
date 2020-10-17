@@ -19,8 +19,11 @@ end
 
 function love.mousepressed(x, y, button, istouch)
     if button == 1 then -- Versions prior to 0.10.0 use the MouseConstant 'l'
-        sound:seek(0, "seconds")
-        sound:play()
+        love.event.push('playSound')
     end
 end
 
+function love.handlers.playSound()
+    sound:seek(0, "seconds")
+    sound:play()
+end
