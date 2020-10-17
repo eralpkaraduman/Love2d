@@ -1,7 +1,10 @@
 {
   "folders": [
     {
-      "path": "./HelloWorld"
+      "path": "HelloWorld"
+    },
+    {
+      "path": "Callbacks"
     }
   ],
   "settings": {
@@ -23,7 +26,7 @@
           "command": "love"
         },
         "args": [
-          "${workspaceFolder}",
+          "${file}/..",
           "vsc_debug"
         ]
       }
