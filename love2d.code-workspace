@@ -11,8 +11,6 @@
     }
   ],
   "settings": {
-    "editor.tabSize": 2,
-    "editor.detectIndentation": false,
     "[lua]": {
       "editor.defaultFormatter": "Koihik.vscode-lua-format",
       "editor.formatOnSave": true,
