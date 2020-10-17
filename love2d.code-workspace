@@ -8,6 +8,7 @@
     "editor.tabSize": 2,
     "editor.detectIndentation": false,
     "[lua]": {
+      "editor.defaultFormatter": "Koihik.vscode-lua-format",
       "editor.formatOnSave": true,
       "editor.formatOnPaste": true
     }
@@ -31,7 +32,8 @@
   },
   "extensions": {
     "recommendations": [
-      "tomblind.local-lua-debugger-vscode"
+      "tomblind.local-lua-debugger-vscode",
+      "Koihik.vscode-lua-format"
     ]
   },
 }
