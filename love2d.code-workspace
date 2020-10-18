@@ -17,8 +17,10 @@
     "[lua]": {
       "editor.defaultFormatter": "Koihik.vscode-lua-format",
       "editor.formatOnSave": true,
-      "editor.formatOnPaste": true
-    }
+      "editor.formatOnPaste": true,
+      "files.trimTrailingWhitespace": true
+    },
+    "vscode-lua-format.configPath": "C:/Users/eralp/Documents/GitHub/Love/.lua-format"
   },
   "launch": {
     "configurations": [
@@ -42,5 +44,5 @@
       "tomblind.local-lua-debugger-vscode",
       "Koihik.vscode-lua-format"
     ]
-  },
+  }
 }
