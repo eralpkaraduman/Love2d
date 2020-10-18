@@ -10,15 +10,20 @@
       "path": "FogReyiz"
     },
     {
-      "path": "LoadFile"
+      "path": "Tiled1"
+    },
+    {
+      "path": "Tiled2"
     }
   ],
   "settings": {
     "[lua]": {
+      "editor.tabSize": 2,
+      "editor.detectIndentation": false,
       "editor.defaultFormatter": "Koihik.vscode-lua-format",
       "editor.formatOnSave": true,
       "editor.formatOnPaste": true,
-      "files.trimTrailingWhitespace": true
+      "files.trimTrailingWhitespace": true,
     },
     "vscode-lua-format.configPath": "C:/Users/eralp/Documents/GitHub/Love/.lua-format"
   },
@@ -42,7 +47,10 @@
   "extensions": {
     "recommendations": [
       "tomblind.local-lua-debugger-vscode",
-      "Koihik.vscode-lua-format"
+      "Koihik.vscode-lua-format",
+      "bschulte.love",
+      "pixelbyte-studios.pixelbyte-love2d",
+      "codingjinxx.love2d-snippets"
     ]
   }
 }
