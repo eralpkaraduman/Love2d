@@ -25,7 +25,7 @@
       "editor.formatOnPaste": true,
       "files.trimTrailingWhitespace": true,
     },
-    "vscode-lua-format.configPath": "C:/Users/eralp/Documents/GitHub/Love/.lua-format"
+    "vscode-lua-format.configPath": "../.lua-format"
   },
   "launch": {
     "configurations": [
@@ -37,7 +37,7 @@
           "command": "love"
         },
         "args": [
-          "${file}/..",
+          "${fileDirname}",
           "vsc_debug"
         ]
       }
