@@ -3,7 +3,7 @@ if os.getenv("LOCAL_LUA_DEBUGGER_VSCODE") == "1" then
 end
 
 require "conf"
-require "screen"
+require "display"
 
 function love.load()
   love.graphics.setDefaultFilter("nearest", "nearest", 1)
@@ -11,7 +11,7 @@ function love.load()
   canvas:setFilter("nearest", "nearest")
   canvas:renderTo(
     function()
-      screen.init(conf.width, conf.height)
+      display.init(conf.width, conf.height)
     end
   )
 end
@@ -19,7 +19,7 @@ end
 function love.update()
   canvas:renderTo(
     function()
-      screen.draw(conf.width, conf.height)
+      display.draw(conf.width, conf.height)
     end
   )
 end

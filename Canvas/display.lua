@@ -1,16 +1,16 @@
 require "colors"
 require "centerTitleText"
 
-screen = {}
+display = {}
 
-function screen.init(sx, sy)
+function display.init(sx, sy)
   love.graphics.clear()
   love.graphics.setColor(BLACK)
   love.graphics.rectangle('fill', 0, 0, sx, sy)
 
 end
 
-function screen.draw(sx, sy)
+function display.draw(sx, sy)
   love.graphics.clear()
   love.graphics.setColor(BLACK)
   love.graphics.rectangle('fill', 0, 0, sx, sy)
@@ -18,4 +18,4 @@ function screen.draw(sx, sy)
   centerTitleText.draw('Centered Title', 0, 0, sx)
 end
 
-return screen
+return display
