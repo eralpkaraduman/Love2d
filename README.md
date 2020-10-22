@@ -3,7 +3,7 @@
 
 - download love2d https://love2d.org
 - Put it to your PATH https://love2d.org/wiki/PATH
-- Open this workspace in vscode
+- Open this workspace in vscode (love2d.code-workspace)
 - Enter into one of the folders
 - Open a `.lua` file
 - `CMD + P`
