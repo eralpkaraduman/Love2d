@@ -4,6 +4,8 @@ require "lib/love-animation/animation"
 
 display = {}
 
+local finnPosition = {x = 50, y = 120}
+
 local finnSprite = LoveAnimation.new('FinnSprite.animation.lua');
 
 function display.init(sx, sy)
@@ -14,8 +16,14 @@ function display.init(sx, sy)
   finnSprite:setState("jump")
 end
 
-function display.update(dt)
+function display.update(dt, sx, sy)
   finnSprite:update(dt)
+  finnPosition.x = finnPosition.x + (100 * dt)
+  if (finnPosition.x > sx) then
+    finnPosition.x = -20
+  end
+
+  finnSprite:setPosition(finnPosition.x, finnPosition.y)
 end
 
 function display.draw(sx, sy)

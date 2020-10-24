@@ -17,18 +17,16 @@ function love.load()
 end
 
 function love.update(dt)
-  display.update(dt)
+  display.update(dt, conf.width, conf.height)
 end
 
 function love.draw()
-  -- love.graphics.setBlendMode("alpha")
   canvas:renderTo(
     function()
       display.draw(conf.width, conf.height)
     end
   )
   love.graphics.setColor(1, 1, 1, 1) -- reset color before drawing to canvas
-  -- love.graphics.setBlendMode("alpha")
   love.graphics.draw(canvas, 0, 0, 0, conf.scale)
 end
 
