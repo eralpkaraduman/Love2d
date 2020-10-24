@@ -25,6 +25,7 @@ function display.draw(sx, sy)
   love.graphics.setColor(WHITE)
   centerTitleText.draw('Centered Title', 0, 0, sx)
 
+  love.graphics.setColor(1, 1, 1, 1)
   finnSprite:draw()
 end
 
