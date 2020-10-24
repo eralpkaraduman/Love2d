@@ -1,4 +1,4 @@
-conf = {width = 400, height = 240, scale = 3}
+conf = {width = 400, height = 240, scale = 4}
 
 function love.conf(t)
   t.window.width = conf.width * conf.scale
