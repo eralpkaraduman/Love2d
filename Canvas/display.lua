@@ -18,7 +18,7 @@ end
 
 function display.update(dt, sx, sy)
   finnSprite:update(dt)
-  finnPosition.x = finnPosition.x + (100 * dt)
+  finnPosition.x = finnPosition.x + (120 * dt)
   if (finnPosition.x > sx) then
     finnPosition.x = -20
   end
@@ -31,7 +31,7 @@ function display.draw(sx, sy)
   love.graphics.setColor(BLACK)
   love.graphics.rectangle('fill', 0, 0, sx, sy)
   love.graphics.setColor(WHITE)
-  centerTitleText.draw('Centered Title', 0, 0, sx)
+  centerTitleText.draw('SPRITE ANIMATION', 0, 0, sx)
 
   love.graphics.setColor(1, 1, 1, 1)
   finnSprite:draw()

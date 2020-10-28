@@ -17,6 +17,12 @@
     },
     {
       "path": "Canvas"
+    },
+    {
+      "path": "Physics"
+    },
+    {
+      "path": "PhysicsBreezefield"
     }
   ],
   "settings": {
