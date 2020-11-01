@@ -23,6 +23,9 @@
     },
     {
       "path": "PhysicsBreezefield"
+    },
+    {
+      "path": "CanvasPhysics"
     }
   ],
   "settings": {
