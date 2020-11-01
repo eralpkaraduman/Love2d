@@ -11,7 +11,7 @@ function love.load()
   canvas:setFilter("nearest", "nearest")
   canvas:renderTo(
     function()
-      Display:init(conf.displayWidth, conf.displayHeight)
+      Display:load(conf.displayWidth, conf.displayHeight)
     end
   )
 end

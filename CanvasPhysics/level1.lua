@@ -8,7 +8,7 @@ local finnPosition = {x = 0, y = -20}
 
 local finnSprite = LoveAnimation.new('FinnSprite.animation.lua');
 
-function Level1:init(sx, sy)
+function Level1:load(sx, sy)
   love.graphics.clear()
   love.graphics.setColor(BLACK)
   love.graphics.rectangle('fill', 0, 0, sx, sy)
