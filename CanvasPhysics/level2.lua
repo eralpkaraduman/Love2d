@@ -14,12 +14,10 @@ function RectangleCollider:create(x, y, width, height)
     {x = self.x + self.width, y = self.y + self.height},
     {x = self.x, y = self.y + self.height}
   }
-  return bf.Collider.new(
-           world, "Polygon", {
-      self.points[1].x, self.points[1].y, self.points[2].x, self.points[2].y,
-      self.points[3].x, self.points[3].y, self.points[4].x, self.points[4].y
-    }
-         )
+  return bf.Collider.new(world, "Polygon", {
+    self.points[1].x, self.points[1].y, self.points[2].x, self.points[2].y,
+    self.points[3].x, self.points[3].y, self.points[4].x, self.points[4].y
+  })
 end
 
 function Level2:load(sx, sy)
