@@ -26,6 +26,9 @@
     },
     {
       "path": "CanvasPhysics"
+    },
+    {
+      "path": "Jam"
     }
   ],
   "settings": {
