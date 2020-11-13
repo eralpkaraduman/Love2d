@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b592aa4e-54bc-4a01-a683-ba7753e99f1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/centerTitleText.lua" beforeDir="false" afterPath="$PROJECT_DIR$/centerTitleText.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/display.lua" beforeDir="false" afterPath="$PROJECT_DIR$/display.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level1.lua" beforeDir="false" afterPath="$PROJECT_DIR$/level1.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.lua" beforeDir="false" afterPath="$PROJECT_DIR$/main.lua" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/display.lua" />
+        <option value="$PROJECT_DIR$/main.lua" />
+        <option value="$PROJECT_DIR$/level1.lua" />
+        <option value="$PROJECT_DIR$/conf.lua" />
+        <option value="$PROJECT_DIR$/centerTitleText.lua" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kEeq6bLqQbTlsXgD0jXZFBEZA8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34975636" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29994586" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Love2D" type="lua.app" factoryName="Lua Application">
+      <module name="riderModule" />
+      <option name="program" value="C:\Program Files\LOVE\love.exe" />
+      <option name="file" value="" />
+      <option name="workingDir" value="C:\Users\eralp\Documents\GitHub\Love\Jam" />
+      <option name="debuggerType" value="2" />
+      <option name="params" value="." />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="lua.app" factoryName="Lua Application">
+      <option name="program" value="C:\Program Files\LOVE\love.exe" />
+      <option name="file" value="main.lua" />
+      <option name="workingDir" value="" />
+      <option name="debuggerType" value="2" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b592aa4e-54bc-4a01-a683-ba7753e99f1b" name="Default Changelist" comment="" />
+      <created>1605270367565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605270367565</updated>
+      <workItem from="1605270371947" duration="662000" />
+      <workItem from="1605272534849" duration="138000" />
+      <workItem from="1605272688927" duration="213000" />
+      <workItem from="1605273400124" duration="1418000" />
+      <workItem from="1605275126988" duration="18000" />
+      <workItem from="1605275161018" duration="2030000" />
+      <workItem from="1605277476514" duration="36000" />
+      <workItem from="1605277572662" duration="4385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="161" key="#Plugins" timestamp="1605275142512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="161" key="#Plugins/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605275142512" />
+    <state x="416" y="175" width="1086" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605280814286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="416" y="175" width="1086" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605280814286" />
+    <state x="720" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605272816302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="720" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605272816302" />
+    <state width="1878" height="367" key="GridCell.Tab.0.bottom" timestamp="1605284737281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.0.bottom/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605284737281" />
+    <state width="1878" height="367" key="GridCell.Tab.0.center" timestamp="1605284737281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.0.center/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605284737281" />
+    <state width="1878" height="367" key="GridCell.Tab.0.left" timestamp="1605284737281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.0.left/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605284737281" />
+    <state width="1878" height="367" key="GridCell.Tab.0.right" timestamp="1605284737281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.0.right/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605284737281" />
+    <state width="1878" height="367" key="GridCell.Tab.1.bottom" timestamp="1605284737282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.1.bottom/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605284737282" />
+    <state width="1878" height="367" key="GridCell.Tab.1.center" timestamp="1605284737282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.1.center/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605284737282" />
+    <state width="1878" height="367" key="GridCell.Tab.1.left" timestamp="1605284737282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.1.left/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605284737282" />
+    <state width="1878" height="367" key="GridCell.Tab.1.right" timestamp="1605284737282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.1.right/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605284737282" />
+    <state x="462" y="165" key="SettingsEditor" timestamp="1605284224687">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="462" y="165" key="SettingsEditor/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605284224687" />
+    <state x="736" y="365" key="cloudConfig.PluginsDialog" timestamp="1605277295183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="365" key="cloudConfig.PluginsDialog/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605277295183" />
+    <state x="831" y="365" key="cloudConfig.SelfSettingsDialog" timestamp="1605277275412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="831" y="365" key="cloudConfig.SelfSettingsDialog/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605277275412" />
+    <state x="641" y="119" width="637" height="801" key="find.popup" timestamp="1605277178027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="641" y="119" width="637" height="801" key="find.popup/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605277178027" />
+    <state x="619" y="242" key="run.anything.popup" timestamp="1605284650087">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="619" y="242" key="run.anything.popup/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605284650087" />
+    <state x="642" y="245" width="672" height="678" key="search.everywhere.popup" timestamp="1605282541975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="642" y="245" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-2560.364.2048.1112@0.0.1920.1040" timestamp="1605282541975" />
+  </component>
+</project>

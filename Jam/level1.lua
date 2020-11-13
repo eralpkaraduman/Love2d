@@ -32,8 +32,8 @@ function Level1:draw(sx, sy)
   love.graphics.clear()
   love.graphics.setColor(BLACK)
   love.graphics.rectangle('fill', 0, 0, sx, sy)
-  love.graphics.setColor(WHITE)
-  centerTitleText.draw('PHYSICS', 0, 0, sx)
+
+  centerTitleText.draw('Could you pass the salt please?', 0, 0, sx)
 
   love.graphics.setColor(1, 1, 1, 1)
   finnSprite:draw()

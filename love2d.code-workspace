@@ -1,32 +1,32 @@
 {
   "folders": [
-    {
-      "path": "HelloWorld"
-    },
-    {
-      "path": "ImageAndFont"
-    },
-    {
-      "path": "FogReyiz"
-    },
-    {
-      "path": "Tiled1"
-    },
-    {
-      "path": "Tiled2"
-    },
-    {
-      "path": "Canvas"
-    },
-    {
-      "path": "Physics"
-    },
-    {
-      "path": "PhysicsBreezefield"
-    },
-    {
-      "path": "CanvasPhysics"
-    },
+    // {
+    //   "path": "HelloWorld"
+    // },
+    // {
+    //   "path": "ImageAndFont"
+    // },
+    // {
+    //   "path": "FogReyiz"
+    // },
+    // {
+    //   "path": "Tiled1"
+    // },
+    // {
+    //   "path": "Tiled2"
+    // },
+    // {
+    //   "path": "Canvas"
+    // },
+    // {
+    //   "path": "Physics"
+    // },
+    // {
+    //   "path": "PhysicsBreezefield"
+    // },
+    // {
+    //   "path": "CanvasPhysics"
+    // },
     {
       "path": "Jam"
     }
@@ -65,7 +65,8 @@
       "Koihik.vscode-lua-format",
       "bschulte.love",
       "pixelbyte-studios.pixelbyte-love2d",
-      "codingjinxx.love2d-snippets"
+      "codingjinxx.love2d-snippets",
+      "tangzx.emmylua"
     ]
   }
 }
