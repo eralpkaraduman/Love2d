@@ -4,7 +4,7 @@ require "love-animation/animation"
 
 Scene1 = {}
 
-local finnPosition = {x = 150, y = -20}
+local finnPosition = {x = 0, y = -20}
 
 local finnSprite = LoveAnimation.new('FinnSprite.animation.lua');
 
