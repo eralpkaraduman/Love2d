@@ -1,7 +1,7 @@
 conf = {
   width = 400, -- base window width
   height = 240, -- base window height
-  windowScale = 2, -- number go big -> window size go big
+  windowScale = 1, -- number go big -> window size go big
   renderScale = 2 -- number go big -> pixels go big
 }
 
@@ -16,4 +16,5 @@ function love.conf(t)
   t.window.height = conf.windowHeight
   t.window.fullscreen = false
   t.window.vsync = 0
+  -- t.console = true
 end
